@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="DataSourceManagerImpl" format="xml" hash="4067201377">
+  <component name="DataSourceManagerImpl" format="xml" hash="3548381579">
     <data-source source="LOCAL" name="Rails depot: development" uuid="079679eb-ece5-4591-8e91-4a1a136b70bf">
       <driver-ref>sqlite.xerial</driver-ref>
       <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
       <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/db/development.sqlite3</jdbc-url>
+      <table-pattern>product</table-pattern>
       <libraries />
     </data-source>
     <data-source source="LOCAL" name="Rails depot: test" uuid="a771a8f6-1243-4911-88ee-133f5184ee1e">
