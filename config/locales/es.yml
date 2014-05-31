@@ -32,9 +32,9 @@ es:
 
     orders:
         payment_types:
-            chek:   'Чек'
-            credit_card:    "Кредитной картой"
-            purchase_order:   "Оплата на месте"
+            chek:   'Check'
+            credit_card:    "Tarjeta de crédito"
+            purchase_order:   "Pago en el acto"
         new:
             legend:           "Por favor, introduzca sus datos"
         form:
