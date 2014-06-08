@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="DataSourceManagerImpl" format="xml" hash="3548381579">
+  <component name="DataSourceManagerImpl" format="xml" hash="3670800293">
     <data-source source="LOCAL" name="Rails depot: development" uuid="079679eb-ece5-4591-8e91-4a1a136b70bf">
       <driver-ref>sqlite.xerial</driver-ref>
       <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
@@ -12,6 +12,14 @@
       <driver-ref>sqlite.xerial</driver-ref>
       <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
       <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/db/test.sqlite3</jdbc-url>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails depot: production" uuid="14b92b9e-b8aa-434f-992d-6a1ab294e03d">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1/depot_production</jdbc-url>
+      <user-name>rebel</user-name>
+      <user-password>dfc7dfcfdfc7dfccdfc3dfd9dfd8dfcfdfc8dfcfdfc6</user-password>
       <libraries />
     </data-source>
   </component>

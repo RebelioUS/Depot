@@ -7,4 +7,7 @@
   <data-source source="LOCAL" name="Rails depot: test" uuid="a771a8f6-1243-4911-88ee-133f5184ee1e">
     <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
   </data-source>
+  <data-source source="LOCAL" name="Rails depot: production" uuid="14b92b9e-b8aa-434f-992d-6a1ab294e03d">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
 </component>
